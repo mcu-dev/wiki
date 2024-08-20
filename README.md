@@ -4,7 +4,7 @@ MCU-Dev is dedicated to fostering innovation and collaboration in the embedded s
 
 ## Links:
 
-- MKDocs: [https://mcu-dev.github.io/documentation](https://mcu-dev.github.io/documentation/)
+- MKDocs: [https://mcu-dev.github.io/wiki](https://mcu-dev.github.io/wiki/)
 
 ## How to Contribute
 
