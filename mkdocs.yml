@@ -1,5 +1,5 @@
 site_name: mcu-dev Wiki Pages
-site_url: https://mcu-dev.github.io/documentation/
+site_url: https://mcu-dev.github.io/wiki/
 nav:
   - Home: index.md
 theme:
